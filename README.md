@@ -4,7 +4,7 @@ The code in this toolbox implements ["Structured Joint Sparse Orthogonal Nonnega
 
 
 ### Testing
-Directly run demo.m for reproduction.
+Directly run demo.m for reproduction. Please also download NMFLibrary from https://github.com/hiroyuki-kasai/NMFLibrary.
 
 ### Citation
 Please give credits to this paper if this code is useful and helpful for your research.

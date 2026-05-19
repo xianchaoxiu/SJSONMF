@@ -5,7 +5,7 @@ Matrix Factorization for Fault Detection"](https://ieeexplore.ieee.org/abstract/
 
 
 ### Testing
-Directly run demo.m for reproduction.
+Directly run demo_SJSONMF.m for reproduction.
 
 ### Citation
 Please give credits to this paper if this code is useful and helpful for your research.

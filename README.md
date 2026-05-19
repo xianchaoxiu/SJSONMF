@@ -1,9 +1,7 @@
-# TCCA
+# SJSONMF
 
-The code in this toolbox implements ["Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis"](https://ieeexplore.ieee.org/abstract/document/10091146) by <i>J. Sun, X. Xiu, Y. Luo, W. Liu</i>.
-
-![alt text](./framework.png)
-
+The code in this toolbox implements ["Structured Joint Sparse Orthogonal Nonnegative
+Matrix Factorization for Fault Detection"](https://ieeexplore.ieee.org/abstract/document/10036023) by <i>X. Zhang, X. Xiu, C. Zhang</i>.
 
 
 ### Testing
@@ -22,3 +20,14 @@ Please give credits to this paper if this code is useful and helpful for your re
       pages     = {5645-5654},
       publisher = {IEEE}
      }
+
+
+@article{zhang2023structured,
+  title={Structured joint sparse orthogonal nonnegative matrix factorization for fault detection},
+  author={Zhang, Xi and Xiu, Xianchao and Zhang, Chao},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={72},
+  pages={1--15},
+  year={2023},
+  publisher={IEEE}
+}
